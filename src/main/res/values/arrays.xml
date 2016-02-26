@@ -2,10 +2,11 @@
 <resources>
 
 	<string-array name="resources">
-		<item>Mobile</item>
-		<item>Phone</item>
-		<item>Tablet</item>
-		<item>Conversations</item>
+		<item>myWone</item>
+		<item>Móvil</item>
+		<item>Tableta</item>
+		<item>Web</item>
+		<item>iOS</item>
 		<item>Android</item>
 	</string-array>
 	<string-array name="filesizes">
