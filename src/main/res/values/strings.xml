@@ -522,6 +522,8 @@
 	<string name="username">Username</string>
 	<string name="username_hint">Username</string>
 	<string name="invalid_username">This is not a valid username</string>
+	<string name="conference_name">Conference name</string>
+	<string name="invalid_conference_name">This is not a valid conference name</string>
 	<string name="download_failed_server_not_found">Download failed: Server not found</string>
 	<string name="download_failed_file_not_found">Download failed: File not found</string>
 	<string name="download_failed_could_not_connect">Download failed: Could not connect to host</string>
@@ -534,6 +536,8 @@
 	<string name="pref_away_when_screen_off_summary">Marks your resource as away when the screen is turned off</string>
 	<string name="pref_xa_on_silent_mode">Not available in silent mode</string>
 	<string name="pref_xa_on_silent_mode_summary">Marks your resource as not available when device is in silent mode</string>
+	<string name="pref_treat_vibrate_as_silent">Treat vibrate as silent mode</string>
+	<string name="pref_treat_vibrate_as_silent_summary">Marks your resource as not available when device is on vibrate</string>
 	<string name="pref_show_connection_options">Extended connection settings</string>
 	<string name="pref_show_connection_options_summary">Show hostname and port settings when setting up an account</string>
 	<string name="hostname_example">xmpp.example.com</string>
@@ -597,4 +601,5 @@
 	<string name="this_field_is_required">This field is required</string>
 	<string name="correct_message">Correct message</string>
 	<string name="send_corrected_message">Send corrected message</string>
+	<string name="no_keys_just_confirm">You already trust this contact. By selecting \'done\' you are just confirming that %s is part of this conference.</string>
 </resources>
