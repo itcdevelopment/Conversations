@@ -566,4 +566,11 @@
   <string name="mam_prefs">Almacenar Preferencias</string>
   <string name="load_more_messages">Cargar más mensajes</string>
   <string name="fetching_mam_prefs">Obteniendo Preferencias. Por favor espere…</string>
+  <string name="conference_name">Conference name</string>
+  <string name="conference_shutdown">El chat de grupo se ha cerrado</string>
+  <string name="invalid_conference_name">No es un nombre válido de nombre de chat de grupo</string>
+  <string name="joining_conference">Uniendose a chat de grupo</string>
+  <string name="no_keys_just_confirm">Ya has acreditado a este contacto. Al aceptarlo confirmas que $s es parte de este chat de grupo.</string>
+  <string name="pref_treat_vibrate_as_silent">Vibrar como en Silencio</string>
+  <string name="pref_treat_vibrate_as_silent_summary">Marca tu dispositivo como no disponible cuando esté en Modo Vibración</string>
 </resources>
